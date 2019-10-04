@@ -39,6 +39,9 @@ See [here](https://ioinformatics.org/page/members/7) for additional links. The [
 
 ## International
 
+.org/)
+  * [IOIT](http://ioit.altervista.org/2018-teams-and-contests-.html)
+  * [InfO(1) cup](http://info1cup.com/)
   * IOI
     * Online Judges
       * [Yandex](https://contest.yandex.com/ioi/)
@@ -53,10 +56,7 @@ See [here](https://ioinformatics.org/page/members/7) for additional links. The [
     * submit BOI / CEOI at [CSES](https://cses.fi/)
   * [Balkan OI](http://boi2018.ro/home)
   * [IZhO](https://oj.uz/problems/source/24)
-  * [APIO](http://apio-olympiad.org/)
-  * [IOIT](http://ioit.altervista.org/2018-teams-and-contests-.html)
-  * [InfO(1) cup](http://info1cup.com/)
-
+  * [APIO](http://apio-olympiad
 ### Approximate CF Rating to USACO
 
   * 1200+: Silver
