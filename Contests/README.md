@@ -54,6 +54,15 @@ The following websites do not hold regular contests anymore, but they're still w
   * ~~[SnackDown](https://www.codechef.com/snackdown/2017/schedule): May~~
   * ~~[Yandex Algorithm](https://contest.yandex.ru/contest-list/): April (bad times)~~
 
+### Tools
+
+  * [Code Drills](http://code-drills.com/)
+  * [Stopstalk](https://www.stopstalk.com)
+  * [CF Visualizer](http://cfviz.netlify.com/compare.html)
+  * [CF Achievements](http://cfa.yuldashev.net/)
+  * [CF Predictor](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn)
+  * [CF Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)
+  
 ## Online HS (US)
 
  * [VT HSPC](https://icpc.cs.vt.edu/#/hscontest2017)
@@ -68,11 +77,3 @@ The following websites do not hold regular contests anymore, but they're still w
 
 ## Codeforces
 
-### Tools
-
-  * [Code Drills](http://code-drills.com/)
-  * [Stopstalk](https://www.stopstalk.com)
-  * [CF Visualizer](http://cfviz.netlify.com/compare.html)
-  * [CF Achievements](http://cfa.yuldashev.net/)
-  * [CF Predictor](https://chrome.google.com/webstore/detail/cf-predictor/ocfloejijfhhkkdmheodbaanephbnfhn)
-  * [CF Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)
